@@ -11,7 +11,7 @@ I thoroughly enjoyed the Datathon experience, where I had the chance to enhance 
 The repository contains the following materials:
 
 1. **[dataset.csv](https://docs.google.com/spreadsheets/d/1-F0vjCpBiD_76nwZEekZ3874dv3O-L3wF0nNX5gYTdc/edit?usp=sharing)**: This CSV file includes the indicator list and data for pregnancy-related mortality across all states. The indicator list is based on the instructions provided by the BroadStreet Institute.
-2. **infographs/**: This directory holds individual PNG infograph files, each representing pregnancy-related mortality data for a specific state. The template for the infographs was adapted from a Canvas project shared by the BroadStreet Institute during the Datathon.
+2. **[infographs/](https://www.canva.com/design/DAFswHZE_Us/X6uhL-VB38u9t7xTX2DUuA/view?utm_content=DAFswHZE_Us&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**: This directory holds individual PNG infograph files, each representing pregnancy-related mortality data for a specific state. The template for the infographs was adapted from a Canvas project shared by the BroadStreet Institute during the Datathon.
 
 ## Acknowledgments
 
